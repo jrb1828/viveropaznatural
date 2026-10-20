@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Árboles injertados",
+    "category": "exterior",
+    "image": "imagenes/arboles-de-exterior-arboles-injertados.webp",
+    "source": "Arboles de exterior-Árboles injertados.jpeg"
+  },
+  {
+    "name": "Albahaca",
+    "category": "medicinales",
+    "image": "imagenes/planta-medicinal-albahaca.webp",
+    "source": "Planta Medicinal-Albahaca.jpeg"
+  },
+  {
+    "name": "Citronela",
+    "category": "medicinales",
+    "image": "imagenes/planta-medicinal-citronela.webp",
+    "source": "Planta Medicinal-Citronela.jpeg"
+  },
+  {
+    "name": "Hierbabuena ExtraMenta",
+    "category": "medicinales",
+    "image": "imagenes/planta-medicinal-hierbabuena-extramenta.webp",
+    "source": "Planta Medicinal-Hierbabuena ExtraMenta.jpeg"
+  },
+  {
+    "name": "Romero",
+    "category": "medicinales",
+    "image": "imagenes/planta-medicinal-romero.webp",
+    "source": "Planta Medicinal-Romero.jpeg"
+  },
+  {
+    "name": "China",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-china.webp",
+    "source": "Planta Ornamental China.jpeg"
+  },
+  {
+    "name": "Fucsia Colgante",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-fucsia-colgante.webp",
+    "source": "Planta Ornamental-Fucsia Colgante.jpeg"
+  },
+  {
+    "name": "Kalanchoe",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-kalanchoe.webp",
+    "source": "Planta Ornamental-Kalanchoe.jpeg"
+  },
+  {
+    "name": "Caña de Indio en maceta",
+    "category": "exterior",
+    "image": "imagenes/planta-de-exterior-cana-de-indio-en-maceta.webp",
+    "source": "Planta de Exterior-Caña de Indio en maceta.jpeg"
+  },
+  {
+    "name": "Crotos",
+    "category": "exterior",
+    "image": "imagenes/planta-de-exterior-crotos.webp",
+    "source": "Planta de Exterior-Crotos.jpeg"
+  },
+  {
+    "name": "Anturio",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-anturio.webp",
+    "source": "Planta de Interior-Anturio.jpeg"
+  },
+  {
+    "name": "Calatea Leopardina",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-calantea-leopardina.webp",
+    "source": "Planta de Interior-Calantea Leopardina.jpeg"
+  },
+  {
+    "name": "Calatea Northern Lights",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-calantea-northern-lights.webp",
+    "source": "Planta de Interior-Calantea Northern Lights.jpeg"
+  },
+  {
+    "name": "Calatea Rayada",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-calantea-rayada.webp",
+    "source": "Planta de Interior-Calantea Rayada.jpeg"
+  },
+  {
+    "name": "Calatea Rosy",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-calantea-rosy.webp",
+    "source": "Planta de Interior-Calantea Rosy.jpeg"
+  },
+  {
+    "name": "Caña de Indio en agua",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-cana-de-indio-en-agua.webp",
+    "source": "Planta de Interior-Caña de Indio en agua.jpeg"
+  },
+  {
+    "name": "Conchas",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-conchas.webp",
+    "source": "Planta de Interior-Conchas.jpeg"
+  },
+  {
+    "name": "Schefflera trenzada",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-schefflera-trenzada.webp",
+    "source": "Planta de Interior-Schefflera trenzada.jpeg"
+  },
+  {
+    "name": "Tortuga",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-tortuga.webp",
+    "source": "Planta de Interior-Tortuga.jpeg"
+  },
+  {
+    "name": "Begonias Rex",
+    "category": "interior",
+    "image": "imagenes/planta-de-interior-begonias-rex.webp",
+    "source": "Planta de interior-Begonias Rex.jpeg"
+  },
+  {
+    "name": "Celosia",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-celosia.webp",
+    "source": "Planta ornamental-Celosia.jpeg"
+  },
+  {
+    "name": "Clavelina",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-clavelina.webp",
+    "source": "Planta ornamental-Clavelina.jpeg"
+  },
+  {
+    "name": "Coleos",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-coleos.webp",
+    "source": "Planta ornamental-Coleos.jpeg"
+  },
+  {
+    "name": "Gazania",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-gazania.webp",
+    "source": "Planta ornamental-Gazania.jpeg"
+  },
+  {
+    "name": "Geranio",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-geranio.webp",
+    "source": "Planta ornamental-Geranio.jpeg"
+  },
+  {
+    "name": "Marigold",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-marigold.webp",
+    "source": "Planta ornamental-Marigold.jpeg"
+  },
+  {
+    "name": "Osteospermum",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-osteospermum.webp",
+    "source": "Planta ornamental-Osteospermum.jpeg"
+  },
+  {
+    "name": "Pentas",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-pentas.webp",
+    "source": "Planta ornamental-Pentas.jpeg"
+  },
+  {
+    "name": "Portulaca",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-portulaca.webp",
+    "source": "Planta ornamental-Portulaca.jpeg"
+  },
+  {
+    "name": "Rosa Mini",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-rosa-mini.webp",
+    "source": "Planta ornamental-Rosa Mini.jpeg"
+  },
+  {
+    "name": "San Diegos Morados",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-san-diegos-morados.webp",
+    "source": "Planta ornamental-San Diegos Morados.jpeg"
+  },
+  {
+    "name": "Thunbergias",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-thumbergias.webp",
+    "source": "Planta ornamental-Thumbergias.jpeg"
+  },
+  {
+    "name": "Vinca Mini",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-vinca-mini.webp",
+    "source": "Planta ornamental-Vinca Mini.jpeg"
+  },
+  {
+    "name": "Vinca",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-vinca.webp",
+    "source": "Planta ornamental-Vinca.jpeg"
+  },
+  {
+    "name": "Violetas",
+    "category": "ornamentales",
+    "image": "imagenes/planta-ornamental-violetas.webp",
+    "source": "Planta ornamental-Violetas.jpeg"
+  },
+  {
+    "name": "Cipreses",
+    "category": "exterior",
+    "image": "imagenes/arboles-de-exterior-cipreses.webp",
+    "source": "Árboles de exterior-Cipreses.jpeg"
+  }
+]

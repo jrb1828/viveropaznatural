@@ -1,0 +1,12 @@
+VIVERO PAZ NATURAL — SITIO WEB
+
+1. Extraé todo el ZIP.
+2. Abrí index.html con Chrome, Edge, Firefox o Safari.
+3. No movás la carpeta imagenes: contiene las fotos reales.
+4. Funciona en móvil y escritorio. Los enlaces a WhatsApp, Facebook, Maps y Waze requieren internet.
+5. Para publicar en internet, subí todo el contenido de la carpeta a un servicio de hospedaje estático (Netlify, GitHub Pages, etc.).
+6. Las plantas del catálogo se encuentran en el arreglo PLANTS dentro de index.html; catalogo.json sirve como inventario de referencia.
+7. Los nombres están basados en los nombres de archivo aportados. Las categorías y nombres botánicos pueden revisarse antes de la publicación.
+
+WhatsApp: +506 7250-2810
+Facebook: https://www.facebook.com/viveropaznatural
